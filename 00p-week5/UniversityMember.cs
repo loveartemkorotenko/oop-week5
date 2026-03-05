@@ -1,4 +1,6 @@
-﻿namespace UniversityResourceSystem;
+﻿
+
+namespace UniversityResourceSystem;
 
 public class UniversityMember
 {
