@@ -1,0 +1,15 @@
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.AssemblyInfoInputs.cache
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.AssemblyInfo.cs
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.csproj.CoreCompileInputs.cache
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.sourcelink.json
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\bin\Debug\net10.0\00p-week5.exe
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\bin\Debug\net10.0\00p-week5.deps.json
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\bin\Debug\net10.0\00p-week5.runtimeconfig.json
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\bin\Debug\net10.0\00p-week5.dll
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\bin\Debug\net10.0\00p-week5.pdb
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.dll
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\refint\00p-week5.dll
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.pdb
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\00p-week5.genruntimeconfig.cache
+C:\Users\akims_hfn9x6a\RiderProjects\00p-week5\00p-week5\obj\Debug\net10.0\ref\00p-week5.dll
