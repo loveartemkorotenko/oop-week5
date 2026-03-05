@@ -6,7 +6,7 @@ public class Professor : UniversityMember
 {
     public Professor(string name, string course) : base(name, course){}
 
-    public override void PerformDrawing()
+    public override void PerformDuties()
     {
         base.PerformDuties();
         ActionLog.Add("Lecture delivered");
