@@ -36,4 +36,12 @@ public class UniversityMember
             throw new InvalidOperationException($"Студент {Name}, {MemberId} досягнув денного обмеження в 5 взаємодій");
         }
     }
+    public void ShowStatistic()
+    {
+        Console.WriteLine(Name);
+        foreach (string action in ActionLog)
+        {
+            Console.WriteLine(action);
+        }
+    }
 }
